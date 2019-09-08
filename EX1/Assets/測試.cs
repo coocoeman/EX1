@@ -20,5 +20,6 @@ public class 測試 : MonoBehaviour
     public void 試試看()
     {
         //if(屬性==XXX||屬性==)
+        
     }
 }
